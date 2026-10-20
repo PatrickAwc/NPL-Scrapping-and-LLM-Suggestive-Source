@@ -1,0 +1,7 @@
+Flask
+requests
+sqlalchemy
+pyodbc
+pydantic>=2
+python-dotenv
+structlog
